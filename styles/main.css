@@ -1,0 +1,20 @@
+body    {
+  background-color: rgb(241, 212, 173);
+  }
+  
+  nav {
+    font-family: trebuchet ms;
+  }
+
+  h1 {
+    font-family: trebuchet ms;
+  }
+  
+  p {
+    font-family: trebuchet ms;
+  }
+  
+  hr {
+    height: 1px;
+    background-color: black;
+  }
