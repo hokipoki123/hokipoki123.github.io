@@ -36,3 +36,8 @@ body {
 .pageTitle {
   text-align: center;
 }
+
+.content img {
+  align-items: center;
+  height: 250px;
+}
