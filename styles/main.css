@@ -1,22 +1,38 @@
 body {
+  font-family: trebuchet ms;
   background-color: rgb(241, 212, 173);
+  padding: 0px;
 }
 
-nav {
-  font-family: trebuchet ms;
-  
+/* This code was pasted from https://www.w3schools.com/css/css_navbar_horizontal.asp it lists my links. */
+.mainNav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(151, 132, 107);
 }
 
-h1 {
-  font-family: trebuchet ms;
+.mainNav li {
+  float: left;
 }
 
-p {
-  font-family: trebuchet ms;
+.mainNav li a {
+  color: rgb(0, 100, 250);
+  display: block;
+  padding: 8px;
+  text-decoration: none;
 }
 
-hr {
-  height: 1px;
+.active {
   background-color: black;
 }
 
+.content {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.pageTitle {
+  text-align: center;
+}
