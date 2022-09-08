@@ -46,15 +46,15 @@ body {
 }
 
 @media screen (min-width: 320px;) {
-  scale: (0.7);
+  body {background-color: rgb(0, 110, 255);}
 }
 
 @media screen (min-width: 768px;) {
-  scale: (1);
+  body {background-color: greenyellow;}
 }
 
 @media screen (min-width: 1200px;) {
-  scale: (1.3);
+  
 }
 
   
