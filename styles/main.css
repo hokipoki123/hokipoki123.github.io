@@ -44,3 +44,17 @@ body {
   height: 300px;
   width: auto;
 }
+
+@media screen (min-width: 320px;) {
+  scale: (0.7);
+}
+
+@media screen (min-width: 768px;) {
+  scale: (1);
+}
+
+@media screen (min-width: 1200px;) {
+  scale: (1.3);
+}
+
+  
