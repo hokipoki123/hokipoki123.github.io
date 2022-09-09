@@ -67,4 +67,11 @@ body {
   margin-right: auto;
   width: 50%;
 }
+
+.center img {
+  margin: 5px;
+  border: 5px;
+  padding: 5px;
+  border-color: blue;
+}
   
