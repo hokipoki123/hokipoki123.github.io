@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hokipoki123/hokipoki123.github.io/issues"
   },
-  "homepage": "https://github.com/hokipoki123/hokipoki123.github.io#readme"
+  "homepage": "https://github.com/hokipoki123/hokipoki123.github.io#readme",
+  "dependencies": {
+    "jest": "^29.2.2"
+  }
 }
